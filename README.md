@@ -9,6 +9,7 @@
 
 ## Medium Blog Links
 - [Don't be a Junior Developer](https://medium.com/zerotomastery/dont-be-a-junior-developer-608c255b3056)
+- [Learn to code in 2019, get hired, and have fun along the way] (https://medium.com/zerotomastery/learn-to-code-in-2019-get-hired-and-have-fun-along-the-way-d4197f96be27)
 
 ## YouTube Videos
 - [JS Custom Iterators by *Colt Steele*](https://www.youtube.com/watch?v=eBhDBy-M7ow)
