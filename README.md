@@ -13,6 +13,7 @@
 
 ## YouTube Videos
 - [JS Custom Iterators by *Colt Steele*](https://www.youtube.com/watch?v=eBhDBy-M7ow)
+- [The Net Ninja - YouTube Channel to learn Modern JS Frameworks](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ## Tech Forums
 - [BlackPearl.biz](https://blackpearl.biz/)
