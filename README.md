@@ -20,6 +20,7 @@
 
 ## Competitions
 - [Ludum Dare](https://ldjam.com/)
+- [Hackerearth](https://www.hackerearth.com/challenges/)
 
 ## Free Courses With Projects
 - [Javascript30](https://javascript30.com/)
