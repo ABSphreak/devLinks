@@ -17,12 +17,24 @@
 
 - [JS Custom Iterators by _Colt Steele_](https://www.youtube.com/watch?v=eBhDBy-M7ow)
 - [The Net Ninja - YouTube Channel to learn Modern JS Frameworks](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [MIT Open CourseWare](https://www.youtube.com/user/mit)
+- [The New Boston](https://www.youtube.com/user/thenewboston)
+- [Computerphile](https://www.youtube.com/user/Computerphile)
+- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Engineered Truth](https://www.youtube.com/user/EngineeredTruth/videos)
+- [Learncode.academy](https://www.youtube.com/user/learncodeacademy/videos)
+- [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+- [Funfunfunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [Codingtutorials360](https://www.youtube.com/user/pizzapokerguy87/playlists?sort=dd&view=50&shelf_id=12)
+- [Coding Rainbow](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+- [FreeCodeCamp YouTube channel](https://www.youtube.com/freecodecamp)
+- [Tastytuts](https://www.youtube.com/user/TastyTuts)
 
 ## Tech Forums
 
 - [BlackPearl.biz](https://blackpearl.biz/)
 
-## Competitions
+## Competitions[Co
 
 - [Ludum Dare](https://ldjam.com/)
 - [Hackerearth](https://www.hackerearth.com/challenges/)
@@ -63,3 +75,10 @@
 - [Webdesigner News](http://www.webdesignernews.com/category/web-development)
 - [CodeCondo](https://codecondo.com/)
 - [Scotch.io](https://scotch.io/)
+- [Hackdesign.org](https://hackdesign.org/lessons)
+
+## Website templates
+- [One extra pixel](https://onextrapixel.com)
+- [Css Author](http://www.cssauthor.com)
+- [Code my UI](https://codemyui.com)
+- [HTML5up](https://html5up.net)
