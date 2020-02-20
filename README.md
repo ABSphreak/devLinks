@@ -83,3 +83,7 @@
 - [Css Author](http://www.cssauthor.com)
 - [Code my UI](https://codemyui.com)
 - [HTML5up](https://html5up.net)
+
+## Resources
+
+- [Coding Heroes](https://codingheroes.io/resources/)
